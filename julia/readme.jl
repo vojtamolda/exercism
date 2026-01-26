@@ -1,3 +1,5 @@
+#! /usr/bin/env julia
+
 readme_lines = [
     "# Exercism Julia Track",
     "",

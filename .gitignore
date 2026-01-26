@@ -28,4 +28,4 @@ Manifest.toml
 .DS_Store
 
 # Exercism metadata and config subfolder
-*/.exercism/*
+.exercism/
