@@ -61,7 +61,7 @@ fn main() -> io::Result<()> {
         );
 
         let title_line = format!(
-            "## [{}]({})  ([`{}/`]({}/))",
+            "## [{}]({})  ([`{}/`]({}/src/lib.rs))",
             title, url, exercise_dir_name, exercise_dir_name
         );
         let thumbnail_line = format!(
