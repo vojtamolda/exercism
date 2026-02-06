@@ -138,6 +138,16 @@ Which your code should transform into this:
 ```
 
 
+## [Luhn](https://exercism.org/tracks/julia/exercises/luhn)  ([`luhn/`](luhn/src/lib.rs))
+
+<img align=right width=100 alt='Luhn' src='https://assets.exercism.org/exercises/luhn.svg'>
+
+
+Determine whether a number is valid according to the [Luhn formula][luhn].
+
+The number will be provided as a string.
+
+
 ## [Sublist](https://exercism.org/tracks/julia/exercises/sublist)  ([`sublist/`](sublist/src/lib.rs))
 
 <img align=right width=100 alt='Sublist' src='https://assets.exercism.org/exercises/sublist.svg'>
